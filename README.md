@@ -2,7 +2,7 @@
 ## 📁 Project Structure
 
 ```text
-dwarpal-system/
+Digi-lock/
 ├── hardware/               # ESP32 / Arduino C++ code
 │   ├── src/
 │   │   └── main.cpp        # Primary logic for fingerprint sensing & Wi-Fi
