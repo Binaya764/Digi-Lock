@@ -44,7 +44,6 @@
 
 ![Working demo](client/public/demo.gif)
 
-<img src="client/public/demo.gif" width="500" alt="demo">
 
 ## 🚀 Quick Start Guide
 
