@@ -37,6 +37,14 @@
 3. **Live Telemetry:** The hardware continuously pings its status to the server, which broadcasts the live lock state to the web dashboard so administrators always know the exact state of their entry points.
 
 ---
+## Dashboard
+![Dashboard](client/public/Dashboard.png)
+
+---
+
+![Working demo](client/public/demo.gif)
+
+<img src="client/public/demo.gif" width="500" alt="demo">
 
 ## 🚀 Quick Start Guide
 
